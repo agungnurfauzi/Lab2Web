@@ -42,7 +42,7 @@ penjelasan dan contohnya!
 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut
 terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser?
 Berikan penjelasan dan contohnya! <p id="paragraf-1" class="text-paragraf"> 
-JAWAB
+# JAWAB
 2. Biasanya H1 hanya digunakan satu kali dalam sebuah halaman web, yaitu sebagai judul utama (judul besar), Sedangkan Intro di gunakan untuk memisahkan perintah dalam satu kesatuan
 3. 
                                       
