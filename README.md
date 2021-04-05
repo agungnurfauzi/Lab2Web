@@ -26,4 +26,7 @@
 # Output
 ![12](https://user-images.githubusercontent.com/56523254/113554535-ab7c3d80-9623-11eb-8daf-a0b93c018723.png)
 # Input
-
+![13](https://user-images.githubusercontent.com/56523254/113556333-82a97780-9626-11eb-9c7d-9ac4e3e000e2.png)
+![15](https://user-images.githubusercontent.com/56523254/113556521-d025e480-9626-11eb-88c7-376acf7c7c24.png)
+# Output
+![14](https://user-images.githubusercontent.com/56523254/113556669-04010a00-9627-11eb-84ae-5cc4b3515f1c.png)
