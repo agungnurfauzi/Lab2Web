@@ -44,6 +44,10 @@ terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browse
 Berikan penjelasan dan contohnya! <p id="paragraf-1" class="text-paragraf"> 
 # JAWAB
 2. Biasanya H1 hanya digunakan satu kali dalam sebuah halaman web, yaitu sebagai judul utama (judul besar), Sedangkan Intro di gunakan untuk memisahkan perintah dalam satu kesatuan
-3. 
+3. Karena CSS eksternal digunakan untuk menggabungkan CSS ke website dengan menggabungkan file, dengan cara tersebut, perubahan apapun yang dibuat pada file CSS akan tampil pada website secara keseluruhan 
+![17](https://user-images.githubusercontent.com/56523254/113566753-8396d500-9637-11eb-9e79-e76caa8186a5.png)
+![18](https://user-images.githubusercontent.com/56523254/113566846-ae812900-9637-11eb-9e41-1e164efffcaa.png)
+![19](https://user-images.githubusercontent.com/56523254/113566957-e0928b00-9637-11eb-9330-c98c4877ccb1.png)
+4. 
                                       
                                                         
