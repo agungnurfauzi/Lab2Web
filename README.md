@@ -21,3 +21,7 @@
 ![10](https://user-images.githubusercontent.com/56523254/113553080-5fc89480-9621-11eb-8897-f8a51defd18f.png)
 
 # Menambahkan warna pada background teks
+# Input
+![11](https://user-images.githubusercontent.com/56523254/113554108-fe092a00-9622-11eb-97f4-bf817bcdd0ba.png)
+# Output
+![4](https://user-images.githubusercontent.com/56523254/113554298-4fb1b480-9623-11eb-89f0-cf2502a8a675.png)
