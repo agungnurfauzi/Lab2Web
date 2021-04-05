@@ -48,6 +48,6 @@ Berikan penjelasan dan contohnya! <p id="paragraf-1" class="text-paragraf">
 ![17](https://user-images.githubusercontent.com/56523254/113566753-8396d500-9637-11eb-9e79-e76caa8186a5.png)
 ![18](https://user-images.githubusercontent.com/56523254/113566846-ae812900-9637-11eb-9e41-1e164efffcaa.png)
 ![19](https://user-images.githubusercontent.com/56523254/113566957-e0928b00-9637-11eb-9330-c98c4877ccb1.png)
-4. 
-                                      
-                                                        
+
+4. Semuanya akan tampak.
+Namun Class mampu memanggil sekaligus atau berkali-kali pada satu halaman, sedangkan ID tidak bisa di panggil lebih dari satu.
